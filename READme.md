@@ -38,3 +38,4 @@ Bu aşamadan sonra sistem pause edilir ve toplanan paralar projelere dağıtıl�
 1. Fonlanan projelerin adım adım parayı nereye harcadıklarıyla ilgili raporlamalar alınacak,paranın hepsi verilmeyecek, bir kısmı kitli tutulacak aşamaları doğrulandıkça paraya erişebilecek.
 2. Sistemde ikinci level memberlar oluşacak.Bu kişiler daha önce fonlamaya proje çıkartan ekiplerden seçilecekler ve denetleyici olma hakkı kazanacaklar.Çıkan projelerin gerçekten sosyal fayda sağlayıp sağlamadığı ve fonlandıktan sonra parayı nereye harcadığıyla ilgili denetlemeleri ikinci seviye memberlar yapacaklar, karşılığında ise havuzda biriken paradan pay alacaklar.
 3. Büyük yatırımcıların bağışlarının bir kısmı havuzda toplanacak ve havuzdaki bu parayla hem ikinci seviye memberların ödülleri karşılacak hem de tüm işlem ücretleri karşılanacak, no fee bir sistem olacak.
+http://socialfunding.online/
